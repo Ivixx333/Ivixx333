@@ -1,5 +1,9 @@
-### Hi there 👋
-
+### Helloo, I am Ivan 👋
+ ###<h1>Learning📚</h1>
+ [![My Skills](https://skillicons.dev/icons?i=laravel)](https://skillicons.dev)
+  ###<h1>TECH Stack👨‍🎓</h1> 
+  
+ [![My Skills](https://skillicons.dev/icons?i=html,javascript,css,php)](https://skillicons.dev)
 <!--
 **Ivixx333/Ivixx333** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
