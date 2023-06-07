@@ -19,10 +19,10 @@
  
  <h1>Me🪐</h1>
  
- ![Gmail](https://img.shields.io/static/v1?style=for-the-badge&message=Gmail&color=EA4335&logo=Gmail&logoColor=FFFFFF&label=)->valleruizivan@gmail.com 
+
 <a href="https://www.instagram.com/ivixx._/"> ![Instagram](https://img.shields.io/static/v1?style=for-the-badge&message=Instagram&color=E4405F&logo=Instagram&logoColor=FFFFFF&label=) </a>
-![LinkedIn](https://img.shields.io/static/v1?style=for-the-badge&message=LinkedIn&color=0A66C2&logo=LinkedIn&logoColor=FFFFFF&label=)( https://www.linkedin.com/in/ivan-valle-76051a27a/)
-<h1>Contact📥</h1>
+<a href="https://www.linkedin.com/in/ivan-valle-76051a27a/"> ![LinkedIn](https://img.shields.io/static/v1?style=for-the-badge&message=LinkedIn&color=0A66C2&logo=LinkedIn&logoColor=FFFFFF&label=)</a>
+ ![Gmail](https://img.shields.io/static/v1?style=for-the-badge&message=Gmail&color=EA4335&logo=Gmail&logoColor=FFFFFF&label=)->valleruizivan@gmail.com 
 
  
 <h1>Stats📊</h1>
