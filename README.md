@@ -1,5 +1,6 @@
 ### Helloo, I am Ivan 👋
 ### <h1>Learning📚</h1>
+
 [![My Skills](https://skillicons.dev/icons?i=laravel,react,nextjs,apollo,mongodb,graphql)](https://skillicons.dev)
   <h1>TECH Stack👨‍🎓</h1> 
   
@@ -9,7 +10,7 @@
  
  <h1>Me🪐</h1>
  
-<a href="https://www.instagram.com/ivixx._/">[![My Skills](https://skillicons.dev/icons?i=instagram)](https://skillicons.dev)</a>
+[![My Skills](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/ivixx._/)
 
 <h1>Contact📥</h1>
 
