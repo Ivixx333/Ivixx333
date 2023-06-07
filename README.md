@@ -20,11 +20,11 @@
  <h1>Me🪐</h1>
  
 [![My Skills](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/ivixx._/)
-
+ [![My Skills](https://skillicons.dev/icons?i=linkedin)]( https://www.linkedin.com/in/ivan-valle-76051a27a/)
 <h1>Contact📥</h1>
 
-valleruizivan@gmail.com
-
+Gmail: valleruizivan@gmail.com 
+ 
 <h1>Stats📊</h1>
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Ivixx333&theme=dark)](https://git.io/streak-stats)
