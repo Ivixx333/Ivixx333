@@ -28,5 +28,5 @@
  
 <h1>Stats📊</h1>
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Ivixx333&theme=buefy)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Ivixx333&theme=dark-buefy)](https://git.io/streak-stats)
  &nbsp;
