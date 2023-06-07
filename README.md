@@ -14,6 +14,7 @@
   [![My Skills](https://skillicons.dev/icons?i=javascript)](https://developer.mozilla.org/es/docs/Web/JavaScript)
    [![My Skills](https://skillicons.dev/icons?i=css)](https://developer.mozilla.org/es/docs/Web/CSS)
     [![My Skills](https://skillicons.dev/icons?i=php)](https://www.php.net/)
+    [![My Skills](https://skillicons.dev/icons?i=mysql)](https://www.mysql.com/)
 
 
  
