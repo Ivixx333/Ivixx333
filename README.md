@@ -1,20 +1,21 @@
 ### Helloo, I am Ivan 👋
- ###<h1>Learning📚</h1>
- [![My Skills](https://skillicons.dev/icons?i=laravel)](https://skillicons.dev)
-  ###<h1>TECH Stack👨‍🎓</h1> 
+### <h1>Learning📚</h1>
+[![My Skills](https://skillicons.dev/icons?i=laravel,react,nextjs,apollo,mongodb,graphql)](https://skillicons.dev)
+  <h1>TECH Stack👨‍🎓</h1> 
   
  [![My Skills](https://skillicons.dev/icons?i=html,javascript,css,php)](https://skillicons.dev)
-<!--
-**Ivixx333/Ivixx333** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ 
+ <h1>Me🪐</h1>
+ 
+<a href="https://www.instagram.com/ivixx._/">[![My Skills](https://skillicons.dev/icons?i=instagram)](https://skillicons.dev)</a>
+
+<h1>Contact📥</h1>
+
+valleruizivan@gmail.com
+
+<h1>Stats📊</h1>
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Ivixx333&theme=dark)](https://git.io/streak-stats)
+ &nbsp;
