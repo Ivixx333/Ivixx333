@@ -1,4 +1,4 @@
-### Helloo, I am Ivan 👋
+### Helloo, My name is Ivan 👋
 ### <h1>Learning📚</h1>
 
 [![My Skills](https://skillicons.dev/icons?i=laravel)](https://laravel.com/)
